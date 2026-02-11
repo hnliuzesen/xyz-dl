@@ -14,6 +14,7 @@ The primary audience for xyz-dl is developers and power users who require a scri
 ## Key Features
 - **CLI-First Functionality:** Direct access to features typically found in the Xiaoyuzhou FM app, optimized for command-line usage.
 - **Entity Information Retrieval:** Powerful commands to fetch detailed metadata about hosts, podcasts, and episodes.
+- **Subtitle Download:** Ability to download episode transcripts (subtitles) as structured JSON files alongside audio.
 - **Enhanced Metadata Management:**
     - **Human-Readable Display:** Formatted terminal output (e.g., tables) for quick data consumption.
     - **Local Metadata Persistence:** Automatic saving of retrieved information into local files (e.g., Markdown or JSON) alongside downloaded media for easy archival and local searching.
